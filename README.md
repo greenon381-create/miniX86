@@ -21,7 +21,11 @@ Experimental hobby operating system made from scratch in C.
 ## Screenshots
 ### Boot Screen
 <img width="720" height="400" alt="Boot" src="https://github.com/user-attachments/assets/eedffa01-ad44-414f-9b4b-5afa0f91222b" />
+
 ### Terminal
+
 <img width="720" height="400" alt="OS" src="https://github.com/user-attachments/assets/2fee1cee-8ac3-4e30-8a6e-9adaa41a280e" />
+
 ### In Action
+
 <img width="720" height="400" alt="OS_in_Action" src="https://github.com/user-attachments/assets/45957aca-d893-4d57-9d12-c00241098ad7" />
